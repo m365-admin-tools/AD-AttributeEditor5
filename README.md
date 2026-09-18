@@ -8,9 +8,8 @@ Pick a domain, an object class, an attribute, an action, and a scope. Run what-i
 
 Uses `System.DirectoryServices` directly. No RSAT and no ActiveDirectory module required.
 
-<!-- Add a screenshot of the main window with a what-if plan showing here, then uncomment:
-![Main window](docs/images/main-window.png)
--->
+<img width="959" height="813" alt="image" src="https://github.com/user-attachments/assets/364e14ae-345c-4f45-b2c0-bd99df1542c7" />
+
 
 ## Why this exists
 
